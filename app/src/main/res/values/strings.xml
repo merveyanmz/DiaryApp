@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="my_notes">Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="miscell">miscell</string>
+    <string name="Miscellaneous" />
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="add">Add</string>
+    <string name="delete_note">Delete Note</string>
+
+    <string name="are_you_sure_about_deleting_this_note">Are you sure about deleting this note?</string>
+</resources>
